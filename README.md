@@ -2,7 +2,7 @@
 
 just some random interpreters I've written in other languages.
 
-[main.py](src/main.py): the first version I implemented in Python.
+[main.py](src/py/main.py): the first version I implemented in Python.
 
 [bf.zig](src/zig/src/bf.zig): second version in Zig.
 
